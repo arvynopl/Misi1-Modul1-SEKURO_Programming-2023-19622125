@@ -11,6 +11,7 @@
 
 1. [VIDEO 1: APA ITU GIT & GITHUB?] (https://youtu.be/lTMZxWMjXQU)
 2. [VIDEO 2: BEKERJA DENGAN GITHUB] (https://youtu.be/Q3Id0DgcrXY)
+3. [VIDEO 3: GITHUB: BRANCH] (https://youtu.be/k1QXd-8VbPY)
 
 <p>&nbsp;</p>
 
@@ -85,3 +86,27 @@
 5. Menyunting file jika diperlukan perubahan
 
 6. Mengakses histori pada file atau repository untuk mengetahui informasi seputar perubahan yang terjadi pada tiap versi commit yang dilakukan
+
+<p>&nbsp;</p>
+
+## Video 3: GITHUB: BRANCH
+
+1. Branch berfungsi untuk membuat snapshot tanpa menganggu jalur utama (master branch)
+
+2. Branch umumnya digunakan untuk fitur eksperimental
+
+3. Dalam konteks kerja kolaboratif, branch juga sering dilakukan untuk pengerjaan oleh 2 atau lebih orang
+
+4. Langkah-langkah melakukan branch di GitHub:
+
+    a. Membuat terlebih dahulu repository baru
+
+    b. Mengakses pilihan branch untuk membuat branch baru. Jika membuat file baru di GitHub pada branch selain master branch, perubahan hanya akan berlaku pada branch tersebut branch yang lain tersebut
+
+    c. Ketika akan menggunakan file dari branch selain master branch, dapat dilakukan pull request (istilah merge) untuk meminta izin kepada master melakukan penyatuan dengan master branch
+
+    d. Bila branch tidak lagi dibutuhkan, maka dapat mengakses "Branches" untuk menghapus branch yang ingin dihilangkan
+
+    e. Branch tidak bisa secara langsung dilakukan merge apabila terdapat perubahan pada line yang sudah ada di dalam file sebelumnya. Maka dari itu, sebagai master, perlu melakukan perubahan secara manual pada dokumen/program
+
+    f. Sebagai informasi tambahan, terdapat dua tipe merging: fast-forward merging dan three-way merging
