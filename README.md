@@ -12,10 +12,11 @@
 1. [VIDEO 1: APA ITU GIT & GITHUB?] (https://youtu.be/lTMZxWMjXQU)
 2. [VIDEO 2: BEKERJA DENGAN GITHUB] (https://youtu.be/Q3Id0DgcrXY)
 3. [VIDEO 3: GITHUB: BRANCH] (https://youtu.be/k1QXd-8VbPY)
+4. [VIDEO 4: GITHUB: FORK] (https://youtu.be/8rry2ncZmfg)
 
 <p>&nbsp;</p>
 
-## Video 1: APA ITU GIT & GITHUB?
+## VIDEO 1: APA ITU GIT & GITHUB?
 
 1. GIT dan GITHUB merupakan 2 hal yang berbeda (dapat digunakan secara terpisah atau bersamaan)
 
@@ -63,7 +64,7 @@
 
 <p>&nbsp;</p>
 
-## Video 2: BEKERJA DENGAN GITHUB
+## VIDEO 2: BEKERJA DENGAN GITHUB
 
 ### Langkah-langkah bekerja dengan GitHub:
 
@@ -89,7 +90,7 @@
 
 <p>&nbsp;</p>
 
-## Video 3: GITHUB: BRANCH
+## VIDEO 3: GITHUB: BRANCH
 
 1. Branch berfungsi untuk membuat snapshot tanpa menganggu jalur utama (master branch)
 
@@ -110,3 +111,21 @@
     e. Branch tidak bisa secara langsung dilakukan merge apabila terdapat perubahan pada line yang sudah ada di dalam file sebelumnya. Maka dari itu, sebagai master, perlu melakukan perubahan secara manual pada dokumen/program
 
     f. Sebagai informasi tambahan, terdapat dua tipe merging: fast-forward merging dan three-way merging
+    
+<p>&nbsp:</p>
+
+## VIDEO 4: GITHUB: FORK
+
+1. Fork = membuat duplikat repo milik orang lain (beserta histori commit-nya)
+
+2. Jembatan antara repo original dan duplikatnya. Memungkinkan adanya modifikasi terhadap repo original yang bisa berkontribusi untuk repo orang lain
+
+3. Fork berbeda dengan clone meskipun memiliki fungsi yang sama yaitu membuat duplikat repo. Fork digunakan untuk menduplikat repo milik orang lain di GitHub, sementara clone digunakan untuk menduplikat repo dari remote ke komputer lokal
+
+4. Cara melakukan fork di Github:
+
+    a. Melakukan pencarian profil akun milik orang lain untuk melakukan pemeriksaan pada repo orang lain. 
+    
+    b. Jika tertarik, terdapat dua cara yang bisa dilakukan. Cara pertama dengan melakukan edit secara langsung pada file yang ingin diubah (tombol yang biasanya berfungsi sebagai "Edit ..." berubah secara otomatis menjadi "Fork ...". Cara kedua dengan mengakses "Fork" pada repo yang diminati (halaman akan berubah dan menunjukkan bahwa repo tersebut sudah diduplikat di akun GitHub kita)
+
+<p>&nbsp:</p>
