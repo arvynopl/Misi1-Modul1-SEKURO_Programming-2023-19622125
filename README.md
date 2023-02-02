@@ -13,6 +13,7 @@
 2. [VIDEO 2: BEKERJA DENGAN GITHUB] (https://youtu.be/Q3Id0DgcrXY)
 3. [VIDEO 3: GITHUB: BRANCH] (https://youtu.be/k1QXd-8VbPY)
 4. [VIDEO 4: GITHUB: FORK] (https://youtu.be/8rry2ncZmfg)
+5. [VIDEO 5: BEKERJA DENGAN GIT] (https://youtu.be/e-6OkXRqWaE)
 
 <p>&nbsp;</p>
 
@@ -112,7 +113,7 @@
 
     f. Sebagai informasi tambahan, terdapat dua tipe merging: fast-forward merging dan three-way merging
     
-<p>&nbsp:</p>
+<p>&nbsp;</p>
 
 ## VIDEO 4: GITHUB: FORK
 
@@ -128,4 +129,63 @@
     
     b. Jika tertarik, terdapat dua cara yang bisa dilakukan. Cara pertama dengan melakukan edit secara langsung pada file yang ingin diubah (tombol yang biasanya berfungsi sebagai "Edit ..." berubah secara otomatis menjadi "Fork ...". Cara kedua dengan mengakses "Fork" pada repo yang diminati (halaman akan berubah dan menunjukkan bahwa repo tersebut sudah diduplikat di akun GitHub kita)
 
-<p>&nbsp:</p>
+<p>&nbsp;</p>
+
+## VIDEO 5: BEKERJA DENGAN GIT
+
+1. Terdapat pilihan dalam bekerja dengan git, yaitu dengan console (command prompt) atau GUI (Git Client). Lebih disarankan untuk belajar menggunakan console terlebih dahulu agar bisa memahami cara kerja GUI
+
+2. Langkah-langkah menggunakan Git: 
+
+    a. Mengunduh Git melalui https://git-scm.com
+
+    b. Membuka Git Bash yang memiliki interface yang mirip dengan command prompt 
+
+    c. Menuliskan command pada Git Bash
+
+        i. $ git init = membuat folder menjadi repo Git
+
+        ii. $ git add <file(s)> = memindahkan file ke staging area
+
+        iii. $ git status = mengetahui bila ada perubahan pada folder (misal ada penambahan file baru)
+
+        iv. $ git commit -m <""> = memindahkan file dari staging area ke history
+
+        v. $ git config
+
+        vi. $ git branch
+
+        vii. $ git help
+
+        viii. $ git rm = memindahkan kembali file yang sudah ada di staging area kembali ke working tree
+
+        ix. $ git log = mendapatkan informasi berupa history commit
+
+        x. $ git log -- <file> = mendapatkan informasi berupa history commit yang khusus terjadi pada file yang diminta 
+
+        xi. $ git checkout <5 digit pertama commit hash> -- <file> = mendapatkan kembali file (yang diperlukan) yang sudah dihapus pada versi yang diinginkan   
+
+        xii. $ pwd = mengetahui directory folder
+
+        xiii. $ ls = mengetahui folder yang ada dalam directory folder
+
+        xiv. $ clear = membersihkan tampilan console
+
+        xv. $ cd = merubah directory folder
+
+    d. Terdapat 3 area pada repo Git:
+
+        i. Working tree
+
+        ii. Staging area
+
+        iii. History
+
+        * Sebagai catatan, file(s) dalam staging area dan history akan tersimpan ke dalam folder .git
+
+        ** Untuk memindahkan folder dari working tree menuju staging area, digunakan perintah git add. Sementara, untuk memindahkan folder dari staging area ke history dengan perintah git commit
+
+    e. Membuka text editor untuk membuat file yang akan dipindahkan ke history pada directory folder yang sudah dirubah menjadi repo Git
+
+    f. Ketika secara tidak sengaja membuka VIM melalui Git Bash, maka kita dapat keluar dari program dengan mengakses tombol "esc" pada keyboard dan menuliskan command berupa :q! 
+
