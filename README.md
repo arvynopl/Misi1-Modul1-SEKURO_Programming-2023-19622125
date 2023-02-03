@@ -14,6 +14,7 @@
 3. [VIDEO 3: GITHUB: BRANCH] (https://youtu.be/k1QXd-8VbPY)
 4. [VIDEO 4: GITHUB: FORK] (https://youtu.be/8rry2ncZmfg)
 5. [VIDEO 5: BEKERJA DENGAN GIT] (https://youtu.be/e-6OkXRqWaE)
+6. [VIDEO 6: GIT BRANCH & MERGE] (https://youtu.be/EGl7KxVOyNs)
 
 <p>&nbsp;</p>
 
@@ -187,5 +188,4 @@
 
     e. Membuka text editor untuk membuat file yang akan dipindahkan ke history pada directory folder yang sudah dirubah menjadi repo Git
 
-    f. Ketika secara tidak sengaja membuka VIM melalui Git Bash, maka kita dapat keluar dari program dengan mengakses tombol "esc" pada keyboard dan menuliskan command berupa :q! 
-
+    f. Ketika secara tidak sengaja membuka VIM melalui Git Bash, maka kita dapat keluar dari program dengan mengakses tombol "esc" pada keyboard dan menuliskan command berupa :q!
