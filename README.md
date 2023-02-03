@@ -195,3 +195,38 @@
     <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216492828-4c970eee-0d31-4016-bca6-81b38f369f2f.png">
     
     <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216492938-675ce948-0d0c-4be0-9fc9-5fc46014bf72.png">
+
+<p>&nbsp;</p>
+
+## VIDEO 6: GIT BRANCH & MERGE
+
+1. Branch
+
+    a. Menggunakan command $ git branch <nama_branch> pada console untuk menambahkan branch baru selain master branch
+    
+    b. Menggunakan command $ git log --all --decorate --oneline --graph untuk menampilkan visualisasi branch 
+    
+    c. Command sebelumnya dapat disingkat dengan cara $ alias graph = "git log --all --decorate --oneline --graph"
+    
+    d. Menggunakan command $ git checkout <nama_branch> untuk berpindah branch
+
+2. Merge
+
+    a. Terdapat dua jenis merge:
+
+        i. Fast Forward
+            Branch yang akan dilakukan merge berada dalam direct path
+
+        ii. Three-way merge (merge commit)
+            Branch yang akan dilakukan merge tidak berada dalam direct path 
+
+    b. Sebelum melakukan merge terhadap branch, lakukan check out terlebih dahulu ke master branch
+    
+    c. Menggunakan command $ git merge <nama_branch> untuk menggabungkan dua branch
+
+    d. Setelah merge berjalan dengan baik, gunakan command $ git branch -d <nama_branch> untuk menghapus branch yang sudah tidak diperlukan
+
+    e. Sebagai informasi tambahan, untuk mengetahui branch yang telah dilakukan merge, dapat digunakan command $ git branch --merged
+
+    f. Khusus untuk merge berjenis three-way merge, akan terbentuk commit baru sehingga perlu menambahkan message melalui text editor atau VIM (yang terbuka secara otomatis)        
+
