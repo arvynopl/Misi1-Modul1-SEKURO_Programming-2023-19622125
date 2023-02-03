@@ -15,6 +15,8 @@
 4. [VIDEO 4: GITHUB: FORK] (https://youtu.be/8rry2ncZmfg)
 5. [VIDEO 5: BEKERJA DENGAN GIT] (https://youtu.be/e-6OkXRqWaE)
 6. [VIDEO 6: GIT BRANCH & MERGE] (https://youtu.be/EGl7KxVOyNs)
+7. [VIDEO 7: GIT MERGE CONFLICT] (https://youtu.be/Vfwfeve72PA)
+8. [VIDEO 8: GITIGNORE]
 
 <p>&nbsp;</p>
 
@@ -247,6 +249,27 @@
     <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216506323-dff296d6-e671-4432-815a-531c0ad52e84.png">
     
     <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216506542-78578e5a-33c5-4a7f-bc79-87cd0dbcfad3.png">
+
+<p>&nbsp;</p>
+
+## VIDEO 7: GIT MERGE CONFLICT
+
+1. Terjadi jika ada perubahan terhadap line yang sudah ada (bukan hasil penambahan) di antara kedua branch. Untuk menyelesaikannya, perlu dilakukan beberapa penyesuaian pada file
+
+2. Jika diperlukan untuk melakukan checkout pada commit yang lama, maka terdapat langkah-langkah yang perlu dilakukan:
+
+    a. Menggunakan command $ git log untuk mendapatkan 7 digit terakhir pada commit yang ingin diakses kembali 
+
+    b. Akses tombol "q" pada keyboard untuk keluar dari log, kemudian gunakan command $ git checkout <7 digit terakhir commit>
+
+    c. Pada layar, terdapat informasi bila HEAD sekarang sudah lepas dari branch dan berada di dalam commit yang telah diakses
+
+    d. Jika ingin kembali ke branch terakhir, gunakan command $ git checkout <nama_branch>
+
+    e. Jika ingin melanjutkan dan mengulang kembali di commit yang telah diakses, dapat membuat branch baru dengan menggunakan $ git branch <nama_branch>
+
+    f. Untuk kondisi (e), bila kita memeriksa pada graph, HEAD belum mengarah pada branch. Maka, untuk mengarahkan HEAD kembali ke branch yang baru dibuat, dapat digunakan command $ git checkout <nama_branch>
+
 
 
 
