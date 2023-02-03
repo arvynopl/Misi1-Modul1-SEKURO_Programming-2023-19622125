@@ -318,6 +318,20 @@
 
 5. Bukti percobaan dengan Git:
 
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216536521-d0a10afa-a43f-4b7c-8a14-e8e951855024.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216536949-894ed428-df7d-41ef-93bd-bc5305c99eab.png">
+    
+    <img width="1000" alt="image" src="https://user-images.githubusercontent.com/53984537/216537000-ba70feae-f9f4-492a-b4e3-9e4998848ccf.png">
+
+
+    
+    
+
+    
+    
+
+
 
 
 
