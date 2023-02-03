@@ -16,7 +16,7 @@
 5. [VIDEO 5: BEKERJA DENGAN GIT] (https://youtu.be/e-6OkXRqWaE)
 6. [VIDEO 6: GIT BRANCH & MERGE] (https://youtu.be/EGl7KxVOyNs)
 7. [VIDEO 7: GIT MERGE CONFLICT] (https://youtu.be/Vfwfeve72PA)
-8. [VIDEO 8: GITIGNORE]
+8. [VIDEO 12: GITIGNORE] (https://youtu.be/LK3kX4n-vLM)
 
 <p>&nbsp;</p>
 
@@ -176,6 +176,8 @@
 
         xv. $ cd = merubah directory folder
 
+        xvi. $ mkdir = membuat directory folder baru
+
     d. Terdapat 3 area pada repo Git:
 
         i. Working tree
@@ -295,6 +297,26 @@
     <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216516170-4190c1aa-6047-4d45-8a6e-243495fdaf45.png">
     
     <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216516255-e9f9c805-9c0c-4741-b2d5-72e9417b5602.png">
+
+<p>&nbsp;</p>
+
+## VIDEO 12: GITIGNORE
+
+1. .gitignore adalah file yang bisa disimpan dalam repo agar pada saat melakukan commit, ada file yang tidak ikut ke dalam proses commit
+
+2. .gitignore dapat dibuat di text editor dan dapat diisi dengan beberapa hal seperti:
+
+    a. nama_file.extension
+
+    b. nama_folder/
+
+    c. < * >.extension (* merupakan pola)
+
+3. Dengan menuliskan seperti yang tertulis pada poin no(2) pada file .gitignore, maka file/folder yang didaftarkan tidak akan terbawa selama proses commit
+
+4. Untuk mengetahui file/folder yang direkomendasikan masuk ke dalam file .gitignore, maka kita dapat mengunjungi website dengan alamat https://github.com/github/gitignore atau https://gitignore.io
+
+5. Bukti percobaan dengan Git:
 
 
 
