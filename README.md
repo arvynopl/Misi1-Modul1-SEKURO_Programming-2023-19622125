@@ -228,5 +228,41 @@
 
     e. Sebagai informasi tambahan, untuk mengetahui branch yang telah dilakukan merge, dapat digunakan command $ git branch --merged
 
-    f. Khusus untuk merge berjenis three-way merge, akan terbentuk commit baru sehingga perlu menambahkan message melalui text editor atau VIM (yang terbuka secara otomatis)        
+    f. Khusus untuk merge berjenis three-way merge, akan terbentuk commit baru sehingga perlu menambahkan message melalui text editor atau VIM (yang terbuka secara otomatis)
+    
+3. Bukti percobaan dengan Git:
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216505710-b8e43739-9a26-4599-a67e-132b7c8a0653.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216505899-a4600523-2b87-43be-9d49-34fce6c63927.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216506099-c0fd817a-d4f8-440a-9114-97769f0c2b7a.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216506153-d036cc84-8b5d-4dd7-b8d5-4d4c4b53bc6c.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216506213-6bdde280-c12e-4f24-af50-a45eea0580b8.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216506280-cc5d4083-3bc2-440d-ad9b-c0bd82528ac2.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216506323-dff296d6-e671-4432-815a-531c0ad52e84.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216506542-78578e5a-33c5-4a7f-bc79-87cd0dbcfad3.png">
+
+
+
+    
+    
+
+
+
+    
+    
+    
+    
+
+    
+    
+    
+    
+
 
