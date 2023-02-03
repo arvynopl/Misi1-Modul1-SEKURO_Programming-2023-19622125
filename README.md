@@ -206,7 +206,7 @@
     
     b. Menggunakan command $ git log --all --decorate --oneline --graph untuk menampilkan visualisasi branch 
     
-    c. Command sebelumnya dapat disingkat dengan cara $ alias graph = "git log --all --decorate --oneline --graph"
+    c. Command sebelumnya dapat disingkat dengan cara $ alias graph="git log --all --decorate --oneline --graph"
     
     d. Menggunakan command $ git checkout <nama_branch> untuk berpindah branch
 
