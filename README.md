@@ -270,6 +270,49 @@
 
     f. Untuk kondisi (e), bila kita memeriksa pada graph, HEAD belum mengarah pada branch. Maka, untuk mengarahkan HEAD kembali ke branch yang baru dibuat, dapat digunakan command $ git checkout <nama_branch>
 
+3. Bukti percobaan dengan Git:
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216515222-47676d0b-388c-42c4-81c7-09ea3716077e.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216515275-191fa050-6288-418e-b0f9-d29fe061597f.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216515310-4523f4d0-ee0a-4cb1-8471-75b77c10e570.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216515340-8c01ab0f-54f8-49c0-9123-13c8b70a8531.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216515580-c34cd4fb-14e7-418b-bacf-9fee17403872.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216515618-e774d4cc-eace-4a95-8abe-706f44eb547c.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216515649-9b36281b-c267-44a6-b61b-36fa1efdc721.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216515688-7960b48f-226b-4429-a92a-5d1d416fcb48.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216516113-73612a61-95f7-448e-b201-207f96cda10b.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216516148-ecf9f87c-f3bc-41da-bbe9-f2d3e8b8f434.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216516170-4190c1aa-6047-4d45-8a6e-243495fdaf45.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216516255-e9f9c805-9c0c-4741-b2d5-72e9417b5602.png">
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+    
+    
+
+
 
 
 
