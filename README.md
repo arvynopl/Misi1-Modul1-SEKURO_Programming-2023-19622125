@@ -188,4 +188,10 @@
 
     e. Membuka text editor untuk membuat file yang akan dipindahkan ke history pada directory folder yang sudah dirubah menjadi repo Git
 
-    f. Ketika secara tidak sengaja membuka VIM melalui Git Bash, maka kita dapat keluar dari program dengan mengakses tombol "esc" pada keyboard dan menuliskan command berupa :q!
+    f. Ketika secara tidak sengaja membuka VIM melalui Git Bash, maka kita dapat keluar dari program dengan mengakses tombol "esc" pada keyboard dan menuliskan command berupa :q! 
+
+    g. Bukti percobaan Git:
+        
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216492828-4c970eee-0d31-4016-bca6-81b38f369f2f.png">
+    
+    <img width="500" alt="image" src="https://user-images.githubusercontent.com/53984537/216492938-675ce948-0d0c-4be0-9fc9-5fc46014bf72.png">
